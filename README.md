@@ -13,7 +13,7 @@ This project is a React application that includes a repository management interf
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/codeant-assessment.git
+    git clone https://github.com/ravi-rautela/codeAnt-AI.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -42,12 +42,12 @@ The application uses React Router for navigation. Below are the available routes
 ### Example Routes and Results
 
 1. **Home Route (`/`)**
-    - **URL:** `http://localhost:3000/`
+    - **URL:** `http://localhost:5173/`
     - **Component Rendered:** `Repository`
     - **Description:** Displays the main repository management interface.
 
 2. **Sign In Route (`/signin`)**
-    - **URL:** `http://localhost:3000/signin`
+    - **URL:** `http://localhost:5173/signin`
     - **Component Rendered:** `Signin`
     - **Description:** Displays the sign-in page for user authentication.
 
